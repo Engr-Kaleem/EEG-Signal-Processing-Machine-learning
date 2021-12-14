@@ -9,3 +9,9 @@ This repository is for EEG signal processing perticularly aplling ML on EEG data
 ###### .repeated for each signature and mixture of signature
 ###### .PSD for each and and each signature
 ###### .topomaps
+#### SVM_LR.py(following ML model Applied to EEG Data)
+###### pyriemann.estimation
+###### SVM(multiple kernels)
+###### Ramdom forest
+###### Decisiocn Trees
+
